@@ -1,0 +1,25 @@
+.background {
+    background-image: url("../images/background.jpg");
+    /* height: fit-content ; */
+    height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;   
+    margin-top: '-50' !important;
+ }
+ .search{
+    margin-top: '-50' !important;
+ }
+
+ .fillScreen{
+     margin-left: 10%;
+     margin-right: 10%;
+ }
+
+.card-columns {
+  width: fit-content;
+}
+
+.property-card {
+  cursor: pointer;
+}
